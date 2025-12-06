@@ -29,7 +29,7 @@ Students often face delays when seeking advising due to high appointment demand,
 - Responses grounded in retrieved policy text.
 - Demonstrates reduction of misinformation and improved access to information.
 
-## Planned Improvements (Version 2)
+## Planned Improvements (Version 1 Evo)
 - Implement a lightweight memory buffer to enable multi-turn conversations.
 - Develop a student-facing web or chat interface.
 - Expand coverage to additional advising-related documents.
