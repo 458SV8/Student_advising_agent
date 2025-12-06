@@ -33,7 +33,7 @@ Students often face delays when seeking advising due to high appointment demand,
 - Implement a lightweight memory buffer to enable multi-turn conversations.
 - Develop a student-facing web or chat interface.
 - Expand coverage to additional advising-related documents.
-- Display policy “effective dates” to clarify relevance and accuracy.
+- Add Admin access
 
 ## Technology Stack
 - Embeddings: sentence-transformers (MiniLM)
