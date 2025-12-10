@@ -44,3 +44,18 @@ Students often face delays when seeking advising due to high appointment demand,
 
 ## Summary
 This system provides policy-grounded advising support by retrieving and citing official ASU information, reducing advisor workload and improving student access to accurate guidance. Future development will focus on interactive usability and broader document coverage.
+
+UI:
+<img width="1500" height="738" alt="image" src="https://github.com/user-attachments/assets/3b29749b-a6f4-4e4a-8689-77f4c3882884" />
+
+
+Policy Related Guidance:
+<img width="1500" height="728" alt="image" src="https://github.com/user-attachments/assets/aab8a329-d8a5-4275-993f-b8b24d4735de" />
+
+
+
+Intelligent Curriculum Planning :
+<img width="1500" height="707" alt="image" src="https://github.com/user-attachments/assets/4fbed1ad-b8c1-4bda-8c30-bd66bdcbc79d" />
+
+
+
