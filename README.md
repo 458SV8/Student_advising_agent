@@ -24,12 +24,12 @@ Students often face delays when seeking advising due to high appointment demand,
 5. Provide top relevant text segments to the LLM through Ollama.
 6. The LLM generates an answer using only the supplied context. If the information is not available, the system abstains.
 
-## Current Prototype (Version 1)
+## Previous Prototype (Version 1)
 - Single-turn question answering in Jupyter Notebook environment.
 - Responses grounded in retrieved policy text.
 - Demonstrates reduction of misinformation and improved access to information.
 
-## Planned Improvements (Version 1 Evo)
+## Current System (Version 1 Evo)
 - Implement a lightweight memory buffer to enable multi-turn conversations.
 - Develop a student-facing web or chat interface.
 - Expand coverage to additional advising-related documents.
